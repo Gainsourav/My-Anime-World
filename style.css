@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background-color: rgb(241, 186, 160);
+}
+.a1 {
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    margin: 0;
+}
+.a {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 75px;
+}
+.para1 {
+    font-size: 26px;
+    text-align: center;
+}
+.para2 {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+.para3 {
+    font-size: 30px;
+}
+.para4 {
+    font-size: 30px;
+}
+strong {
+    font-size: 20px;
+}
+.a2 {
+    background-color: whitesmoke;
+    width: 70%;
+    position: relative;
+    left: 370px;
+    bottom: 260px;
+}
+.imgsize {
+    height: 250px;
+    width: 250px;
+}
+.A {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    bottom: 45px;
+}
+.a3 {
+    width: 100%;
+    position: relative;
+    bottom: 65px;
+}
+.b1 {
+    background-color: rgb(78, 119, 119);
+}
+.b2 {
+    background-color: olivedrab;
+}
+footer {
+    background-color: grey;
+    height: 30px;
+}
